@@ -6,6 +6,13 @@ body {
     background: #80cdd1;
 }
 
+.card {
+    background: #5f3996;
+}
+
+.btn {
+    background: black;
+}
 .section-padding {
     padding: 70px 0;
 }
